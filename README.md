@@ -271,7 +271,7 @@ This is an educational/portfolio demonstration project. Not intended for operati
 
 <br/>
 
-**Mission Parakram** — *तीन सेनाएं, एक दृष्टि*
+**Mission Parakram** — *शौर्यम् दक्षम् युद्धैः*
 <br/>
 <sub>Three Services, One Vision</sub>
 
